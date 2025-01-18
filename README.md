@@ -37,7 +37,7 @@ You can run the WAVE models using the following scripts:
 
 Explore the beauty of waveform signals and training process visualization with the images below:
 
-![Waveform Signals](https://github.com/DetectedAI/wave/blob/main/data/waveforms.png) ![Training Visualization](https://github.com/DetectedAI/wave/blob/main/data/wave.png)
+![image](https://github.com/user-attachments/assets/fb4e02f3-b9a2-477b-83ad-28cbfd16a4c8)
 
 
 
@@ -45,7 +45,7 @@ Explore the beauty of waveform signals and training process visualization with t
 
 We value each contribution and invite you to participate in developing this pioneering ML approach for physics! Whether you're sharpening bugs, proposing new features, or enriching our documentation, find out how to contribute through our [Contributing Guide](https://docs.DetectedAI.com/help/contributing/). Also, let us know your thoughts by completing our [Survey](https://www.DetectedAI.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A massive thank you 🙏 to everyone involved!
 
-![DetectedAI Open-Source Contributors](https://raw.githubusercontent.com/DetectedAI/assets/main/im/image-contributors.png)
+![image](https://github.com/user-attachments/assets/82a6342b-9d82-424a-824e-3395fb4537af)
 
 
 

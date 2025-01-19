@@ -1,51 +1,34 @@
-<
-# 🌊 Introduction
+This project is focused on the development and application of tools designed to simulate, analyze, and optimize particle physics detectors. The repository provides a framework for understanding particle interactions, tracking, and energy measurement within detector environments.
 
-Here, we introduce **WA**veform **V**ector **E**xploitation (WAVE), a novel approach that uses Deep Learning to readout and reconstruct signals from particle physics detectors. This repository contains our open-source codebase and aims to foster collaboration and innovation in this exciting intersection of ML and physics.
+🌟 Goals
+Enhance the accuracy of particle detection using state-of-the-art algorithms.
+Facilitate simulations for experimental setups in high-energy physics.
+Provide tools for visualizing and interpreting complex particle interactions.
+📂 Repository Features
+Simulation Framework: Tools for generating and analyzing particle trajectories.
+Data Analysis Modules: Libraries for energy, momentum, and interaction vertex calculations.
+Visualization Tools: Interactive plots and 3D models for detector behavior.
+📋 Requirements
+To use the tools in this repository, you'll need:
 
+Python 3.8+
 
+Required Python libraries can be installed via:
 
-## 🚀 Project Objectives
-
-The primary goal of this project is to develop and share Machine Learning techniques that can be applied to full-waveform time-of-flight detectors. These advanced methods are designed to enhance signal processing and interpretation, thereby pushing the boundaries of what's possible in particle physics research.
-
-## 🌟 Key Features
-
-- Implementation of WAVE using PyTorch and TensorFlow.
-- Codebase designed for ease of use and adaptability.
-- Support for running WAVE on Google Cloud Platform (GCP).
-- Sample images illustrating waveform analysis.
-
-# 🔧 Requirements
-
-Before you dive into waveform vector exploitation with our WAVE code, make sure your machine is set up with the following:
-
-- Python 3.7 or later, plus these packages installed with `pip3 install -U -r requirements.txt`:
-  - `numpy`
-  - `scipy`
-  - `torch` (version 0.4.0 or later)
-  - `tensorflow` (version 1.8.0 or later)
-  - `plotly` (optional, for visualization)
-
-# 🏃 Run Instructions
-
-You can run the WAVE models using the following scripts:
-
-- To use our PyTorch implementation, run `wave_pytorch.py`.
-- For TensorFlow users, you can run `wave_tf.py`.
-- If you're looking to deploy on Google Cloud Platform, explore `gcp/wave_pytorch_gcp.py`.
-
-Explore the beauty of waveform signals and training process visualization with the images below:
-
-![image](https://github.com/user-attachments/assets/fb4e02f3-b9a2-477b-83ad-28cbfd16a4c8)
+pip install -r requirements.txt
 
 
+The dependencies include:
 
-# 🤝 Contribute
+numpy
+matplotlib
+scipy
+rootpy (for working with ROOT files)
+tensorflow (optional, for advanced ML applications)
 
-We value each contribution and invite you to participate in developing this pioneering ML approach for physics! Whether you're sharpening bugs, proposing new features, or enriching our documentation, find out how to contribute through our [Contributing Guide](https://docs.DetectedAI.com/help/contributing/). Also, let us know your thoughts by completing our [Survey](https://www.DetectedAI.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). A massive thank you 🙏 to everyone involved!
+🧑‍🔬 Contribute
+We welcome contributions! Whether you're adding new features, fixing bugs, or improving documentation, check out our [Contributing Guide] for more details.
 
-![image](https://github.com/user-attachments/assets/82a6342b-9d82-424a-824e-3395fb4537af)
-
-
+📬 Contact Us
+For any questions or suggestions, feel free to open an issue or contact the maintainers directly.
 
